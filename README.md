@@ -1,5 +1,3 @@
-# mkhaled1.github.io
-
 ```markdown
 # Mohammed Khaled
 
